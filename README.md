@@ -1,2 +1,2 @@
-# state_district
+# Indian State & District
 State &amp; their District
